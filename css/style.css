@@ -1,3 +1,7 @@
+/*
+    GERAL ↴
+*/
+
 * {
     padding: 0;
     margin: 0;
@@ -9,6 +13,10 @@ body {
     overflow-x: hidden;
     flex-wrap: wrap;
 }
+
+/*
+    AREA TOP ↴
+*/
 
 .container_top {
     display: flex;
@@ -33,6 +41,10 @@ body {
     font-weight: 600;
     color: rgba(24, 24, 24, 1);
 }
+
+/*
+    AREA BANNER ↴
+*/
 
 .fundo_banner {
     background-image: url(https://luizfelipe9627.github.io/desafiocodelandia2/images/template.png);
@@ -69,6 +81,10 @@ body {
     line-height: 35.31px;
 }
 
+/*
+    AREA DESC JORDAN ↴
+*/
+
 .container_desc {
     display: flex;
     flex-direction: column;
@@ -91,6 +107,10 @@ body {
     text-align: center;
 }
 
+/*
+    ARER JORDAN ↴
+*/
+
 .container_jordan {
     display: flex;
     justify-content: space-evenly;
@@ -105,6 +125,10 @@ body {
     height: 302px;
     margin-bottom: 30px;
 }
+
+/*
+    AREA FOOTER ↴
+*/
 
 .container_bottom {
     display: flex;
@@ -136,8 +160,15 @@ body {
     padding-bottom: 10px;
 }
 
+/*
+    RESPONSIDIVDADE MOBILE ↴
+*/
+
 @media (min-width: 320px) and (max-width: 425px) {
-    
+    /*
+    AREA BANNER ↴
+    */
+
     .fundo_banner {
         background-image: url(https://luizfelipe9627.github.io/desafiocodelandia2/images/template-mobile.png);
         background-position: center;
@@ -159,6 +190,10 @@ body {
     .text_banner {
         font-size: 15px;
     }
+
+    /*
+    AREA FOOTER ↴
+    */
 
     .container_bottom {
         margin-top: 10px;
