@@ -4,7 +4,7 @@
 <img src="https://github.com/luizfelipe9627/desafiocodelandia2/blob/master/images/JordanShoes.gif" alt="Site">
 
 ## 📄 Descrição
-JordanShoes é um site que tem como intuito mostrar os Jordans com a maior demanda de procura.
+JordanShoes é um site que tem como intuito mostrar os Jordans com a maior demanda de venda e procura.
 
 ### <a href="https://luizfelipe9627.github.io/desafiocodelandia2">Acesse o site</a>
 
