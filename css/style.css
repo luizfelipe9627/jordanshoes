@@ -35,7 +35,7 @@ body {
 }
 
 .fundo_banner {
-    background-image: url(/images/template.png);
+    background-image: url(https://luizfelipe9627.github.io/desafiocodelandia2/images/template.png);
     background-position: center;
     background-size: cover;
     width: 100vw;
@@ -139,7 +139,7 @@ body {
 @media (min-width: 320px) and (max-width: 425px) {
     
     .fundo_banner {
-        background-image: url(/images/template-mobile.png);
+        background-image: url(https://luizfelipe9627.github.io/desafiocodelandia2/images/template-mobile.png);
         background-position: center;
         background-size: cover;
         width: 100vw;
