@@ -1,7 +1,7 @@
 # Desafio Codelandia 2
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)             
 
-<img src="https://github.com/luizfelipe9627/google-page/blob/main/images/google-page.png" alt="Site">
+<img src="https://github.com/luizfelipe9627/desafiocodelandia2/blob/master/images/JordanShoes.gif" alt="Site">
 
 ## 📄 Descrição
 JordanShoes é um site que tem como intuito mostrar os Jordans com a maior demanda de procura.
