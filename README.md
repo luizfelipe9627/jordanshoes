@@ -9,7 +9,7 @@ JordanShoes é um site tem como intuito vender os Jordan com a maior demanda de 
 ### <a href="https://luizfelipe9627.github.io/desafiocodelandia2">Acesse o site</a>
 
 ## 📑 Observação
-Esse layout foi criado para praticar HTML5, CSS3 e principalmente FlexBox.
+Esse layout foi criado com o intuito de praticar HTML5, CSS3 e principalmente Flexbox e Responsividade.
 
 ## 🔍 Layout
 Este layout foi criado por Iuri Silva.
