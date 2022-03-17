@@ -1,4 +1,4 @@
- # Codelândia - Desafio 2
+# Codelândia - 2º Desafio
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)             
 
 <img src="https://github.com/luizfelipe9627/desafiocodelandia2/blob/master/images/JordanShoes.gif" alt="Site">
