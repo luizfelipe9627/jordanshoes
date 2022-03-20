@@ -47,7 +47,7 @@ body {
 */
 
 .fundo_banner {
-    background-image: url(https://luizfelipe9627.github.io/codelandia-desafio2/assets/images/template.png);
+    background-image: url(https://luizfelipe9627.github.io/jordan-shoes/assets/images/template.png);
     background-position: center;
     background-size: cover;
     width: 100vw;
@@ -108,7 +108,7 @@ body {
 }
 
 /*
-    ARER JORDAN ↴
+    AREA JORDAN ↴
 */
 
 .container_jordan {
@@ -162,7 +162,7 @@ body {
 }
 
 /*
-    RESPONSIDIVDADE MOBILE ↴
+    RESPONSIVIDADE MOBILE ↴
 */
 
 @media (min-width: 320px) and (max-width: 570px) {
@@ -171,7 +171,7 @@ body {
     */
 
     .fundo_banner {
-        background-image: url(https://luizfelipe9627.github.io/codelandia-desafio2/assets/images/template-mobile.png);
+        background-image: url(https://luizfelipe9627.github.io/jordan-shoes/assets/images/template-mobile.png);
         background-position: center;
         background-size: cover;
         width: 100vw;
