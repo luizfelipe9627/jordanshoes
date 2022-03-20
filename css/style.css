@@ -56,10 +56,10 @@ body {
 
 .container_banner {
     display: flex;
+    padding-left: 60px;
     align-items: center;
     width: 100vw;
     height: 378px;
-    padding-left: 100px;
     background-color: rgba(0, 0, 0, 0.6);
 }
 
@@ -119,6 +119,7 @@ body {
 
 .box_jordan {
     display: flex;
+    justify-content: center;
     align-items: center;
     background: rgba(235, 233, 234, 1);
     width: 300px;
@@ -164,7 +165,7 @@ body {
     RESPONSIDIVDADE MOBILE ↴
 */
 
-@media (min-width: 320px) and (max-width: 425px) {
+@media (min-width: 320px) and (max-width: 570px) {
     /*
     AREA BANNER ↴
     */
@@ -178,9 +179,8 @@ body {
     }
 
     .container_banner {
-        padding: 10px;
-        text-align: left;
-        height: 358px;
+        padding-left: 0px;
+        justify-content: center;
     }
 
     .title_banner {
@@ -191,6 +191,10 @@ body {
         font-size: 15px;
     }
 
+    .text_desc {
+        max-width: 90vw;
+    }
+
     /*
     AREA FOOTER ↴
     */
@@ -199,3 +203,5 @@ body {
         margin-top: 10px;
     }
 }
+
+
