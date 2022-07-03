@@ -1,0 +1,61 @@
+.fundo_banner {
+  background-image: url("../image/template.svg");
+  background-position: center;
+  background-size: cover;
+  width: 100vw;
+  height: 23.625rem;
+}
+
+.container_banner {
+  display: flex;
+  padding-left: 3.75rem;
+  align-items: center;
+  width: 100vw;
+  height: 23.625rem;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.container_text {
+ max-width: 29.375rem;
+}
+
+.title_banner {
+  font-size: 2rem;
+  font-weight: 700;
+  color: rgba(249, 249, 249, 1);
+  margin-bottom: 0.625rem;
+}
+
+.text_banner {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: rgba(249, 249, 249, 1);
+  line-height: 2.2069rem;
+}
+
+@media (min-width: 320px) and (max-width: 570px) {
+  .fundo_banner {
+    background-image: url("../image/template-mobile.svg");
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 23.5625rem;
+  }
+
+  .container_banner {
+    padding-left: 0;
+    justify-content: center;
+  }
+
+  .title_banner {
+    font-size: 1.625rem;
+  }
+
+  .text_banner {
+    font-size: 0.9375rem;
+  }
+
+  .text_desc {
+    max-width: 90vw;
+  }
+}

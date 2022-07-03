@@ -1,0 +1,23 @@
+.container_top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(24, 24, 24, 1);
+  width: 100vw;
+  height: 3.75rem;
+}
+
+.text_top {
+  color: rgba(249, 249, 249, 1);
+  font-size: 1rem;
+}
+
+.container_top.logo {
+  background-color: #F9F9F9;
+}
+
+.text_top.logo {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: rgba(24, 24, 24, 1);
+}

@@ -1,12 +1,12 @@
-# Jordan Shoes - 2º Desafio
+# JordanShoes
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)             
 
-<img src="https://github.com/luizfelipe9627/desafiocodelandia2/blob/master/assets/videos/jordanshoes.gif" alt="Site">
+<img src="https://github.com/luizfelipe9627/desafiocodelandia2/blob/master/assets/video/jordanshoes.gif" alt="Apresentação do JordanShoes">
 
 ## 📄 Descrição
 JordanShoes é um site tem como intuito vender os Jordan com a maior demanda de procura no mercado atualmente.
 
-### <a href="https://luizfelipe9627.github.io/jordan-shoes">Acesse o site</a>
+### <a href="https://luizfelipe9627.github.io/jordanshoes">Acesse o site</a>
 
 ## 📑 Observação
 Esse layout foi criado com o intuito de praticar HTML5, CSS3 e principalmente Flexbox e Responsividade.
