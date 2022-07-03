@@ -22,6 +22,7 @@
 
 .container_bottom a:hover {
   color: rgba(71, 71, 71, 1);
+  transition: all ease 1s;
 }
 
 .text_bottom {

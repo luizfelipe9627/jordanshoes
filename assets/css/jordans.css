@@ -26,11 +26,17 @@
   flex-wrap: wrap;
 }
 
+.box_jordan:hover {
+  transform: translateY(-10px);
+  transition: all ease 1s;
+  background-color: rgba(71, 71, 71, 1);
+}
+
 .box_jordan {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgba(235, 233, 234, 1);
+  background-color: rgba(235, 233, 234, 1);
   width: 18.75rem;
   height: 18.875rem;
   margin-bottom: 1.875rem;
