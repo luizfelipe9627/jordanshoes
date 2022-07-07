@@ -1,5 +1,5 @@
 .fundo_banner {
-  background-image: url("../image/template.svg");
+  background-image: url("../image/template.webp");
   background-position: center;
   background-size: cover;
   width: 100vw;
@@ -35,7 +35,7 @@
 
 @media (min-width: 320px) and (max-width: 570px) {
   .fundo_banner {
-    background-image: url("../image/template-mobile.svg");
+    background-image: url("../image/template-mobile.webp");
     background-position: center;
     background-size: cover;
     width: 100vw;
