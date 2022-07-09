@@ -6,7 +6,7 @@
 ## 📄 Descrição
 JordanShoes é um site tem como intuito vender os Jordan com a maior demanda de procura no mercado atualmente.
 
-### <a href="hhttps://luizfelipe9627-jordanshoes.netlify.app>Acesse o site</a>
+### <a href="https://luizfelipe9627-jordanshoes.netlify.app>Acesse o site</a>
 
 ## 📑 Observação
 Esse layout foi criado com o intuito de praticar HTML5, CSS3 e principalmente Flexbox e Responsividade.
